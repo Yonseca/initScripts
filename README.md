@@ -13,7 +13,7 @@ Some (maybe) useful init scripts, ready to use.
 	</li>
 	<li>If you're on Fedora:
 	    <ol>
-		<li>Execute <code>chkconfig --add myscript</code><sup>2</sub></li>
+		<li>Execute <code>chkconfig --add scriptName</code><sup>2</sub></li>
 		<li>Execute <code>chkconfig --level 2345 scriptName on</code><sup>2</sub></li>
 	    </ol>
 	</li>
